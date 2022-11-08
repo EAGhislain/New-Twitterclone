@@ -20,7 +20,7 @@ Tech used :
           * Cloudinary (To host uploaded images on CDN)
           
           
- [Live Replit Deployment]()
+
  
  
 ## Screenshot. 
