@@ -1,2 +1,2 @@
 # New-Twitterclone
-[LIVE DEMO] (https://new-twitterclone.eaghislain.repl.co/)
+(LIVE DEMO) [https://new-twitterclone.eaghislain.repl.co/]
